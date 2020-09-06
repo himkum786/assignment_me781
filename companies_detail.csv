@@ -1,0 +1,11 @@
+name_of_company,starting_payment,insurance,accomodation,country
+apple,1000000,yes,yes,USA
+Jaguar,500000,yes,yes,UK
+flipkart,100000,yes,no,INDIA
+amazon,100000,no,no,INDIA
+snapdeal,50000,no,no,INDIA
+myntra,80000,no,yes,INDIA
+tata,500000,yes,yes,INDIA
+reliance,800000,yes,yes,INDIA
+samsung,600000,yes,yes,SOUTH KOREA
+xiaomi,300000,yes,yes,CHINA
